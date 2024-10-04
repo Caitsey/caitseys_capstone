@@ -138,3 +138,18 @@ article>h1{
 img{
   border-radius: 1em;
 }
+
+.bookNow{
+  background-color: #495E57;
+  color: #f4ce14;
+  padding: 2em;
+  font-size: 20px;
+}
+form{
+  padding: 1em;
+  padding-left: 3em;
+  font-family: Karla, Arial, Helvetica, sans-serif;
+}
+input.textblock{
+  margin-left: 2em;
+}

@@ -2,7 +2,7 @@ function Footer(){
     return(
         <footer>
             <div>
-            <img src="https://greenheartlove.com/wp-content/uploads/2024/01/dried-lemon-slices-12.jpg" alt="lemons" width="200" class="pfp"></img>
+                <img src="https://greenheartlove.com/wp-content/uploads/2024/01/dried-lemon-slices-12.jpg" alt="lemons" width="200" class="pfp"></img>
             </div>
             <div>
                 <h3>Dormat Navigation</h3>

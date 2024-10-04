@@ -1,8 +1,8 @@
 function Main(){
     return(
-        <main> <button class="onlineMenu">Online Menu</button>
+        <main> 
+            <button class="onlineMenu">Online Menu</button>
             <h1>Specials</h1>
-            
             <div class="specials">
                 <div>
                     <img src="https://greenheartlove.com/wp-content/uploads/2024/01/dried-lemon-slices-12.jpg" alt="lemons" width="200"></img>
